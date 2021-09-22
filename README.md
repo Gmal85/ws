@@ -2,4 +2,4 @@
 (нужно сделать до 30 сентября 2021 включительно)
 ## Перейти на сайт
 1. [сайт WorldSkills](https://ochm21.worldskills.moscow/)
-
+1. Перейти на страницу [Компетенции](https://ochm21.worldskills.moscow/kompetentsii/)
