@@ -1,5 +1,5 @@
-# Как принять участие в Worldskills
+# Как принять участие в X Открытом чемпионате профессионального мастерства «Московские мастера» по стандартам WorldSkills
 (нужно сделать до 30 сентября 2021 включительно)
 ## Перейти на сайт
-* [WorldSkills X](https://ochm21.worldskills.moscow/)
+1. [WorldSkills X](https://ochm21.worldskills.moscow/)
 
